@@ -1,0 +1,5 @@
+# Log files: machines generate these, so they never belong in history
+*.log
+
+# Scratch folder: holds temporary cache files on my machine only
+temp/
